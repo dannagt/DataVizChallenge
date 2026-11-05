@@ -8,7 +8,7 @@ A daily data visualization challenge held every April, celebrating the art of ch
 More information available at the [30DayChartChallenge GitHub](https://github.com/30DayChartChallenge).
 
 👾 
-I was not working on data viz nor using Git/GitHub in April, so I'm joining late in 2026! In any case, challenge accepted!!
+I was not working on data viz nor using Git/GitHub in April, so I'm joining late in 2026. In any case, challenge accepted!
 
 ------------------------------------------------------------------------
 ## 🛠 Toolkit Description
